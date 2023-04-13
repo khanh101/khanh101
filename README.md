@@ -6,7 +6,7 @@ Why `101`?
 
 ![Khanh101's GitHub stats (including private)](https://github-readme-stats.vercel.app/api?username=khanh101&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanh101&langs_count=5)
+
 
 
 <!--
