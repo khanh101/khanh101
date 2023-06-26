@@ -4,11 +4,6 @@ Why `101`?
 
 `192.168.x.101` is the first IPv4 in my local network.
 
-![Khanh101's GitHub stats (including private)](https://github-readme-stats.vercel.app/api?username=khanh101&count_private=true&show_icons=true)
-
-
-
-
 <!--
 **khanh101/khanh101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
