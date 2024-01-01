@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-Why `101`?
-
-`192.168.x.101` is the first IPv4 in my local network.
 
 <!--
 **khanh101/khanh101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
